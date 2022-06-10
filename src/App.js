@@ -2,6 +2,7 @@ import React from 'react';
 import { ethers } from "ethers";
 import './App.css'
 import { useEffect } from 'react';
+import { useState } from 'react';
 
 function App () {
 
